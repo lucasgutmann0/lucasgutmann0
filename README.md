@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Lucas Gutmann 👋
+
+*Read this in other languages: [English](README.md), [Spanish](README.es.md)*
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgutmann0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **lucasgutmann0/lucasgutmann0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
