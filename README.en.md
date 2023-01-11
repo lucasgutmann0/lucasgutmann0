@@ -1,14 +1,17 @@
-## **Hola, soy Lucas Gutmann** 👋🐧
+
+
+## **Hey, I'm Lucas Gutmann** 👋🐧
 
 ### Full-stack web, mobile developer
 
-##### _Leerlo en otro idioma: [Inglés](README.md), [Español](README.es.md)_
+##### _Read in other language: [English](README.en.md), [Spanish](README.md)_
 
-Soy un estudiante de la carrera de ingenieria de sistemas en Cali, Colombia. Desde que tengo 18 años estoy en la industria por lo cual he podido adquirir experiencia liderando un equipo, enseñando y desarrollandome como un profesional haciendo el rol de FullStack developer _(previo a obtener mi titulo)_.
+I am a systems engineering student in Cali, Colombia. Since I am 18 years old I have been working in the industry so I have been able to gain experience leading a team, teaching and developing myself as a professional doing the role of FullStack developer _(prior to obtaining my degree)_.
 
-El año 2021 ingrese a la Fundacion Universitaria Catolica Lumen Gentium para estudiar la carrera de Ingenieria de sistemas, para luego en 4 semestre ser identifiado por uno de mis docentes para trabajar como desarrollador full stack en EMCALI (empresa publica de mi ciudad).
+In 2021 I entered the _"Fundacion Universitaria Catolica Lumen Gentium"_ to study the career of **Systems Engineering**, and then in 4 semester I was identified by one of my teachers to work in EMCALI (public company in my city) as a **full stack developer**.
 
-## Tecnologías:
+
+## Technologys:
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
@@ -16,7 +19,7 @@ El año 2021 ingrese a la Fundacion Universitaria Catolica Lumen Gentium para es
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Go](https://img.shields.io/badge/Golang-0095D5?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
@@ -24,24 +27,25 @@ El año 2021 ingrese a la Fundacion Universitaria Catolica Lumen Gentium para es
 [![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 </br>
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101018)]()
 </br>
-Y alguna más...
+And some more...
 
-## Encuéntrame en:
+## Media:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@lucas__gutmann__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/lucas_gutmann_)
-[![Istagram](https://img.shields.io/badge/Insta-@lucas__gutmann__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/lucas_gutmann_/)
+[![Istagram](https://img.shields.io/badge/Gram-@lucas__gutmann__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/lucas_gutmann_/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gutmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-gutmann-435731221/)
 [![Web](https://img.shields.io/badge/Portafolio-lucasgutmann0.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://lucasgutmann0.github.io)
 
 
-## Contacto:
+## Contact:
 [![Email](https://img.shields.io/badge/lucasgutmann0@gmail.com.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
 
