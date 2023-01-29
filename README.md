@@ -10,21 +10,17 @@ El año 2021 ingrese a la Fundacion Universitaria Catolica Lumen Gentium para es
 
 ## Tecnologías:
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Go](https://img.shields.io/badge/Golang-0095D5?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
-<!-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() -->
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-<!-- [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]() -->
 </br>
-[![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]()
 </br>
-<!-- [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]() -->
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101018)]()
@@ -45,6 +41,14 @@ Y alguna más...
 </br>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgutmann0)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]() -->
+
+<!-- [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() -->
+
+<!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]() -->
+
+<!-- [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]() -->
 
 <!-- [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]() -->
 
