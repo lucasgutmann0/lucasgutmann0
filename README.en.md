@@ -21,7 +21,6 @@ In 2021 I entered the _"Fundacion Universitaria Catolica Lumen Gentium"_ to stud
 [![Go](https://img.shields.io/badge/Golang-0095D5?style=for-the-badge&logo=go&logoColor=white&labelColor=101010)]()
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 </br>
 [![React](https://img.shields.io/badge/react-232F3E?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Next JS](https://img.shields.io/badge/Next-grey?style=for-the-badge&logo=next.js&logoColor=white&labelColor=101010)]()
