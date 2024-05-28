@@ -46,7 +46,7 @@ And some more...
 
 
 ## Contact:
-[![Email](https://img.shields.io/badge/lucasgutmann0@gmail.com.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/lucasgutmann0@gmail.com.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:lucasgutmann0@gmail.com)
 </br>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgutmann0)](https://github.com/anuraghazra/github-readme-stats) -->
