@@ -1,4 +1,4 @@
-## **Hola, soy Lucas Gutmann** 👋🐧
+## **Hola, soy Lucas Gutmann** 👋
 
 ### Full-stack web, mobile developer
 
