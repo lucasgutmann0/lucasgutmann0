@@ -1,6 +1,6 @@
 
 
-## **Hey, I'm Lucas Gutmann** 👋🐧
+## **Hey, I'm Lucas Gutmann** 👋
 
 ### Full-stack web, mobile developer
 
