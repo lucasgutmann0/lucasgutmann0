@@ -2,7 +2,7 @@
 
 ### Desarrollador de software
 
-##### _Leerlo en otro idioma: [Inglés](README.en.md), [Español](README.md)_
+##### _Leerlo en otro idioma: [Inglés](README.md), [Español](README.es.md)_
 
 Soy un estudiante de la carrera de ingenieria de sistemas en Cali, Colombia. Desde que tengo 18 años estoy en la industria por lo cual he podido adquirir experiencia liderando un equipo, enseñando y desarrollandome como un profesional haciendo el rol de FullStack developer _(previo a obtener mi titulo)_.
 
