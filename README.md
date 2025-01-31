@@ -1,6 +1,6 @@
 ## **Hola, soy Lucas Gutmann** 👋
 
-### Full-stack web, mobile developer
+### Desarrollador de software
 
 ##### _Leerlo en otro idioma: [Inglés](README.en.md), [Español](README.md)_
 
