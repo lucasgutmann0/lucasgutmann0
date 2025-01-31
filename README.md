@@ -36,7 +36,7 @@ And some more...
 [![Istagram](https://img.shields.io/badge/Gram-@lucas__gutmann__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/lucas_gutmann_/)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Gutmann-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/lucas-gutmann-435731221/)
-[![Web](https://img.shields.io/badge/Portafolio-lucasgutmann0.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://lucasgutmann0.github.io)
+[![Web](https://img.shields.io/badge/Portafolio-lucasgutmann.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://lucasgutmann.com)
 
 
 ## Contact:
