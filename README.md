@@ -4,7 +4,7 @@
 
 ### Software developer
 
-##### _Read in other language: [English](README.en.md), [Spanish](README.md)_
+##### _Read in other language: [English](README.md), [Spanish](README.es.md)_
 
 I am a systems engineering student in Cali, Colombia. Since I am 18 years old I have been working in the industry so I have been able to gain experience leading a team, teaching and developing myself as a professional doing the role of FullStack developer _(prior to obtaining my degree)_.
 
