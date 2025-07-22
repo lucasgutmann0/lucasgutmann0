@@ -6,9 +6,9 @@
 
 ##### _Read in other language: [English](README.md), [Spanish](README.es.md)_
 
-I am a systems engineering student in Cali, Colombia. Since I am 18 years old I have been working in the industry so I have been able to gain experience leading a team, teaching and developing myself as a professional doing the role of FullStack developer _(prior to obtaining my degree)_.
+🚀 I’m a Software Engineer based in Cali, Colombia. I started working in the industry at 18, gaining hands-on experience as a Full Stack Developer even before earning my degree. Throughout my journey, I’ve had the opportunity to lead teams, mentor others, and continuously grow both technically and professionally.
 
-In 2021 I entered the _"Fundacion Universitaria Catolica Lumen Gentium"_ to study the career of **Systems Engineering**, and then in 4 semester I was identified by one of my teachers to work in EMCALI (public company in my city) as a **full stack developer**.
+🎓 In 2021, I began studying Systems Engineering at Fundación Universitaria Católica Lumen Gentium. By my fourth semester, one of my professors recognized my potential and offered me the chance to work at EMCALI — a major public company in my city — as a Full Stack Developer.
 
 
 ## Technologys:
