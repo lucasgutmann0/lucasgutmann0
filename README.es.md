@@ -4,9 +4,9 @@
 
 ##### _Leerlo en otro idioma: [Inglés](README.md), [Español](README.es.md)_
 
-Soy un estudiante de la carrera de ingenieria de sistemas en Cali, Colombia. Desde que tengo 18 años estoy en la industria por lo cual he podido adquirir experiencia liderando un equipo, enseñando y desarrollandome como un profesional haciendo el rol de FullStack developer _(previo a obtener mi titulo)_.
+🚀 Soy estudiante de Ingeniería de Sistemas en Cali, Colombia. Desde los 18 años he trabajado en la industria tecnológica, lo que me ha permitido adquirir experiencia liderando equipos, enseñando y desarrollándome como profesional en el rol de desarrollador Full Stack, incluso antes de obtener mi título universitario.
 
-El año 2021 ingrese a la Fundacion Universitaria Catolica Lumen Gentium para estudiar la carrera de Ingenieria de sistemas, para luego en 4 semestre ser identifiado por uno de mis docentes para trabajar como desarrollador full stack en EMCALI (empresa publica de mi ciudad).
+🎓 En el año 2021 ingresé a la Fundación Universitaria Católica Lumen Gentium para estudiar Ingeniería de Sistemas. Para mi cuarto semestre, uno de mis docentes reconoció mi potencial y me brindó la oportunidad de trabajar como desarrollador Full Stack en EMCALI, una empresa pública de gran relevancia en mi ciudad.
 
 ## Tecnologías:
 [![Flutter](https://img.shields.io/badge/Flutter-0095D5?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
